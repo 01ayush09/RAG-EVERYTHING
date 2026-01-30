@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) includes tasks like tokenization, part-of-speech tagging,
+named entity recognition, parsing, and semantic analysis. Modern NLP leverages transformer-based
+language models to produce state-of-the-art results in many tasks.
