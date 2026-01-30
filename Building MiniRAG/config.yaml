@@ -1,0 +1,5 @@
+documents_path: data/docs
+chunk_size: 200
+chunk_overlap: 40
+top_k: 2
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
