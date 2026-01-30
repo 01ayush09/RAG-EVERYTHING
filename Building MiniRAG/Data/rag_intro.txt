@@ -1,0 +1,5 @@
+Retrieval-augmented generation (RAG) combines a retrieval system with a generative model.
+RAG systems first retrieve relevant context from a document store and then condition a
+language model on that context to produce accurate, grounded responses.
+This approach is useful for question answering, summarization, and building chatbots that
+require up-to-date or domain-specific knowledge.
